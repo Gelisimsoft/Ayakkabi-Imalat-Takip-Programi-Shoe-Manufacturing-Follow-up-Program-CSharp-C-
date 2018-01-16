@@ -1,0 +1,128 @@
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Release\Ayakkabi_Imalat_Takip.exe.config
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Release\Ayakkabi_Imalat_Takip.exe
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Release\Ayakkabi_Imalat_Takip.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Release\EntityKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Release\FacadeKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Release\EntityKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Release\FacadeKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\ResolveAssemblyReference.cache
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.DemoEkran.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.G.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsPersonel.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.MasterPage.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Menu.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Giris.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Sifre.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.hakkinda.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Iletisim.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Istakipformu.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Musteriler.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Odeme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Personeller.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Satinalma.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Satis.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.satisguncelle.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatisSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokKarti.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokMG.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokMS.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Tahsilat.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Takvim.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.BackupTake.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.exe
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Release\Ayakkabi_Imalat_Takip.exe.config
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.exe
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Release\Ayakkabi_Imalat_Takip.exe
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Release\Ayakkabi_Imalat_Takip.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Release\EntityKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Release\FacadeKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Release\EntityKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Release\FacadeKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\ResolveAssemblyReference.cache
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.DemoEkran.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.G.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsPersonel.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.MasterPage.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Menu.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Giris.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Sifre.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.hakkinda.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Iletisim.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Istakipformu.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Musteriler.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Odeme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Personeller.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Satinalma.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Satis.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.satisguncelle.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.SatisSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokKarti.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokMG.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.StokMS.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Tahsilat.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Takvim.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.BackupTake.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Release\GenerateResource-ResGen.write.1.tlog

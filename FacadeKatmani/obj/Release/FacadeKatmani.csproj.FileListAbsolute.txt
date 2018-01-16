@@ -1,0 +1,14 @@
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Release\FacadeKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Release\FacadeKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Release\EntityKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Release\EntityKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Release\ResolveAssemblyReference.cache
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Release\FacadeKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Release\FacadeKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Release\FacadeKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Release\FacadeKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Release\EntityKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Release\EntityKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Release\ResolveAssemblyReference.cache
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Release\FacadeKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Release\FacadeKatmani.pdb

@@ -1,0 +1,10 @@
+E:\Temp\Ayakkabi_Imalat_Takip\EntityKatmani\bin\Release\EntityKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\EntityKatmani\bin\Release\EntityKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\EntityKatmani\obj\Release\ResolveAssemblyReference.cache
+E:\Temp\Ayakkabi_Imalat_Takip\EntityKatmani\obj\Release\EntityKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\EntityKatmani\obj\Release\EntityKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\EntityKatmani\bin\Release\EntityKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\EntityKatmani\bin\Release\EntityKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\EntityKatmani\obj\Release\ResolveAssemblyReference.cache
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\EntityKatmani\obj\Release\EntityKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\EntityKatmani\obj\Release\EntityKatmani.pdb

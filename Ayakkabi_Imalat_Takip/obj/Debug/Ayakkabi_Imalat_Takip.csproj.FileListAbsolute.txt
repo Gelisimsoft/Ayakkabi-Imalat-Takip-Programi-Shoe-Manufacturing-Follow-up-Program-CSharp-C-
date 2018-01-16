@@ -1,0 +1,1227 @@
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Form1.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisGuncelleme.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisGuncelleme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisGuncelleme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+L:\Yedek\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+L:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisGuncelleme.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+I:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisGuncelleme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+H:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+F:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisGuncelleme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+K:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.241.tlog
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.298.tlog
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.535.tlog
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.695.tlog
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.535.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.241.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.298.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.695.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+G:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.1788.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.1994.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2073.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2071.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2071.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2342.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2346.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2339.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2397.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2398.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2396.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2403.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2425.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Iletisim.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2801.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.DemoEkran.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.G.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.771.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.771.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.314.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.494.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.475.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.490.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.499.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.515.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.493.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.519.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.493.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.519.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.686.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.686.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.877.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.879.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.1004.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.658.tlog
+E:\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.DemoEkran.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.G.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Iletisim.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.535.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2073.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2071.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2342.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2346.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2398.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2396.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2403.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2801.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.771.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.314.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.494.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.490.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.499.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.515.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.493.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.519.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.686.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.658.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.1788.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.241.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.298.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.695.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.1994.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2071.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2397.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2339.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2425.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.771.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.475.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.493.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.519.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.686.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.877.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.879.tlog
+E:\Temp\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.1004.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.DemoEkran.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.G.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Iletisim.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2071.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2073.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2342.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2346.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2396.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2398.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2403.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.2801.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.314.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.490.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.493.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.494.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.499.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.515.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.519.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.535.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.658.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.686.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.read.771.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.1004.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.1788.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.1994.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2071.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2339.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2397.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.241.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.2425.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.298.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.475.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.493.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.519.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.686.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.695.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.771.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.877.tlog
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource.write.879.tlog
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.DemoEkran.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.G.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Iletisim.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.DemoEkran.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.G.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Iletisim.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.DemoEkran.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.G.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Iletisim.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.DemoEkran.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.G.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Iletisim.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.DemoEkran.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.G.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Iletisim.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.DemoEkran.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.G.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.hakkinda.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Iletisim.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.About.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MailForm.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.About.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Giris.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MailForm.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe.config
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.exe
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\Ayakkabi_Imalat_Takip.pdb
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.dll
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.dll
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\EntityKatmani.pdb
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\bin\Debug\FacadeKatmani.pdb
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csprojResolveAssemblyReference.cache
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.About.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Backup.BackupUpload.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariguncelle.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.CariKartlariSilme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonel.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelG.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelleriS.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsPersonelR.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MasterPage.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Menu.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Sifre.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormguncelleme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IsTakipFormlariRaporlama.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Istakipformu.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.IstakipFormuSil.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Musteriler.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Odeme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerEkstresi.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerGuncelleme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.OdemelerSilme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Personeller.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satinalma.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.MusteriCariKart.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.PersonelCariKarti.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Properties.Resources.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaEkstresi.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaGuncelleme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatinalmaSilme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Satis.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.satisguncelle.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatislarEkstre.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.SatisSilme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKarti.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariGuncelle.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokKartlariSilme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StoklarEkstresi.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMaliyet.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMG.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.StokMS.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tahsilat.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatEkstre.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatGuncelleme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TahsilatlarSilme.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Takvim.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TedarikciCariKarti.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.Tedarikciler.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.BackupTake.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.TekliIsPersonel.resources
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.csproj.GenerateResource.Cache
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.exe
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\Ayakkabi_Imalat_Takip\obj\Debug\Ayakkabi_Imalat_Takip.pdb

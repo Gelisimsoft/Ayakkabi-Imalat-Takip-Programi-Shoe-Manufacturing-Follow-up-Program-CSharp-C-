@@ -1,0 +1,133 @@
+L:\Yedek\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+L:\Yedek\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+L:\Yedek\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+L:\Yedek\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+L:\Yedek\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+L:\Yedek\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+L:\Yedek\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+L:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+L:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+L:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+L:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+L:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+L:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+L:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+I:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+I:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+I:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+I:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+I:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+I:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+I:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+G:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+G:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+G:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+G:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+G:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+G:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+G:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+E:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+E:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+E:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+E:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+E:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+E:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+E:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+F:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+F:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+F:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+F:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+F:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+F:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+F:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+K:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+K:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+K:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+K:\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+K:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+K:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+K:\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+E:\Temp\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+C:\Users\Erdal\Documents\Denem Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.dll
+F:\Malatya\Program Versiyonları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.dll
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+F:\Malatya\Program Çalışmaları\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.dll
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+F:\Malatya\Notlar\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.dll
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+F:\Malatya\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+C:\Users\FTH\Desktop\Ayakkabi_Imalat_Takip Pro\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\EntityKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Devam Eden Projeler\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\EntityKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.csprojResolveAssemblyReference.cache
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+D:\FTH Van De Wereld\Projecten\Windows\Biten Projeler\Ücretsiz\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\EntityKatmani.dll
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+C:\Users\Murat\Desktop\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\FacadeKatmani.dll
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\FacadeKatmani.pdb
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\EntityKatmani.dll
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\bin\Debug\EntityKatmani.pdb
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.csprojResolveAssemblyReference.cache
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.dll
+C:\Users\RUMHİM\Downloads\Ayakkabı İmalat Takip Programı (Ücretsiz)\Ayakkabi_Imalat_Takip Pro (Access Versiyon)\FacadeKatmani\obj\Debug\FacadeKatmani.pdb
